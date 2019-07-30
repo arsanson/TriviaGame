@@ -1,11 +1,10 @@
 body {
-    background-color: aqua;
+    background: aqua;
 }
 
-section {
+.content {
     background-color: bisque;
-    padding-left: 20 px;
-    padding-right: 20 px;
+    padding: 20 px;
     margin-left: 50 px;
     margin-right: 50 px;
 }
