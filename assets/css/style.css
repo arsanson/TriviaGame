@@ -8,8 +8,8 @@ body {
     padding: 20px;
     margin: auto;
 }
-/*.q1 {
-    width: 75%;
-    padding: 40 px;
+
+.questions {
+    width: 60%;
     margin: auto;
-}*/
+}
