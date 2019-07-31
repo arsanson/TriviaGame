@@ -1,5 +1,19 @@
 body {
-    background: aqua;
+    /*background-color: aqua;*/
+}
+
+H1 {
+    width: 60%;
+    margin: auto;
+    font-size: 40px
+}
+
+p {
+    font-size: 20px;
+}
+
+span {
+    font-size: 14px;
 }
 
 .content {
@@ -12,4 +26,18 @@ body {
 .questions {
     width: 60%;
     margin: auto;
+}
+
+
+#timer {
+    width: 60%;
+    margin: auto;
+    font-size: 28px
+}
+
+#submit {
+    width: 60%;
+    margin: 30 auto;
+    background: blue;
+    color: white;
 }
